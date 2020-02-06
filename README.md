@@ -11,7 +11,7 @@ JKO scheme for Fokker-Planck equation is actually a optimization problem with li
 # Result and simulation
 Given a two bumps initial condition, one can see it eventually converges to global equilibrium.
 
-
+![grab-landing-page](https://github.com/winnie1312/grab/blob/master/grab-landingpage-winnie.gif)
 
 ## Authors
 Wuzhe Xu
