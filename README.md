@@ -9,6 +9,7 @@ In fact, the associate gradient flow problem can be solved by JKO scheme.
 JKO scheme for Fokker-Planck equation is actually a optimization problem with linear constraints. In this project I use Douglas-Rachford algorithm.
 
 # Result and simulation
+Given a two bumps initial condition, one can see it eventually converges to global equilibrium.
 
 
 
