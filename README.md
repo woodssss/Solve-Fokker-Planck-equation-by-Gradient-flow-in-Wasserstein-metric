@@ -10,8 +10,7 @@ JKO scheme for Fokker-Planck equation is actually a optimization problem with li
 
 # Result and simulation
 Given a two bumps initial condition, one can see it eventually converges to global equilibrium.
-
-<a href="url"><img src="https://github.com/woodssss/Solve-Fokker-Planck-equation-by-Gradient-flow-in-Wasserstein-metric/blob/master/FP_1D.gif" align="left" height="300" width="300" ></a> <br/>
+<a href="url"><img src="https://github.com/woodssss/Solve-Fokker-Planck-equation-by-Gradient-flow-in-Wasserstein-metric/blob/master/FP_1D.gif" align="left" height="300" width="300" >
 
 ## Authors
 Wuzhe Xu
